@@ -1,0 +1,45 @@
+
+form button {
+  margin-bottom: 4px;
+}
+.text-input {
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #818181;
+    background: #000;
+    color: #fff;
+    margin: 0 15px 0 20px;
+    width: 400px;
+    outline: none;
+}
+.li li {
+    color: #333;
+    list-style: none;
+    width: 400px;
+    background: #fff;
+    margin:10px 0 0 20px;
+    padding: 6px;
+    border-radius: 5px;
+    position: relative;
+    word-wrap: break-word;
+}
+.li ul{padding: 0;}
+.remove{
+position: absolute;
+bottom: -1px;
+right:-98px;
+}
+.edit{
+    position: absolute;
+bottom: -1px;
+right:-160px;
+}
+input.list-input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 0;
+}
+.remove-all{
+    margin-left: 20px;
+}
